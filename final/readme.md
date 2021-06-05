@@ -59,3 +59,5 @@ model.load_state_dict(torch.load('model.pt'))
 accuracy = compute_accuracy(dataset, model)
 print("accuracy on test set: " + str(accuracy))
 ```
+
+this is eddited on github.
