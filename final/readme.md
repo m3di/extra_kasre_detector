@@ -60,4 +60,4 @@ accuracy = compute_accuracy(dataset, model)
 print("accuracy on test set: " + str(accuracy))
 ```
 
-this is eddited on github.
+this is eddited on github yesterday.
